@@ -2,7 +2,7 @@
 
 Abaixo estará descrito o passo a passo para executar o ordenador.
 
-*(npm isntall chalk)*
+*(npm install chalk)*
 *(módulos já instalados, apenas execute o app.js)*
 
 Abra a pasta do projeto no VS Code ou diretamente pelo terminal (CMD ou PowerShell).
